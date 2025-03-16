@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi there, I'm Pi 👋<br>
+```C
+printf("Hello World!");
+```
+# 仓库状态统计
+ ![](https://github-readme-stats.vercel.app/api?username=Joe-Pie&show_icons=true&theme=transparent)
+ 
+ # 主页访问量统计
+ ![Visitor Count](https://profile-counter.glitch.me/Joe-Pie.com/count.svg)
 
 <!--
 **Joe-Pie/Joe-Pie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
